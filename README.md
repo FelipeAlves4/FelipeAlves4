@@ -1,4 +1,4 @@
-<h2 align="center">Olá! eu sou o Felipe Alves Rodrigues👋</h2>
+<h1 align="center">Olá! eu sou o Felipe Alves Rodrigues👋</h1>
 
 ###
 
