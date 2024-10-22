@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Sou entusiasta, gosto muito de aprender programação e quero ser melhor a cada dia. <br>🥉 Já participei de alguns competições de  robótica OBR (Olímpiada Brasileira de Robótica) <br>💻 Constante fase de aprendizagem e aperfeiçoamento</p>
+<p align="left">✨ Sou entusiasta, gosto muito de aprender programação e quero ser melhor a cada dia. <br>🥉 Já participei de algumas competições de  robótica OBR (Olímpiada Brasileira de Robótica) <br>💻 Constante fase de aprendizagem e aperfeiçoamento</p>
 
 ###
 
