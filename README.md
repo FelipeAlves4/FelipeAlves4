@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">✨ Sou entusiasta, gosto muito de aprender programação e quero ser melhor a cada dia. <br>🥉 Já participei de algumas competições de  robótica OBR (Olímpiada Brasileira de Robótica) <br>💻 Constante fase de aprendizagem e aperfeiçoamento</p>
+<p align="left">✨ Sou entusiasta, gosto muito de aprender programação e quero ser melhor a cada dia. <br> 🥇 Medalhista de Ouro no TBR Oeste Paulista (Torneio Brasil de Robotica) <br>💻 Constante fase de aprendizagem e aperfeiçoamento</p>
+<p> 🖥Cursando meu ultimo ano do Ensino Técnico de Desenvolvimento de Sistemas </p>
 
 ###
 
