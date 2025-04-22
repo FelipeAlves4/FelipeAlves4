@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou estudante do Curso técnico de Análise e Desenvolvimento de Sistemas.</p>
+<p align="center">Sou estudante do Curso técnico de Desenvolvimento de Sistemas.</p>
 
 ###
 
